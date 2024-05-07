@@ -1,0 +1,14 @@
+E:\chapter5\chapter5\Implement Singleton Pattern\bin\Debug\net8.0\Implement Singleton Pattern.exe
+E:\chapter5\chapter5\Implement Singleton Pattern\bin\Debug\net8.0\Implement Singleton Pattern.deps.json
+E:\chapter5\chapter5\Implement Singleton Pattern\bin\Debug\net8.0\Implement Singleton Pattern.runtimeconfig.json
+E:\chapter5\chapter5\Implement Singleton Pattern\bin\Debug\net8.0\Implement Singleton Pattern.dll
+E:\chapter5\chapter5\Implement Singleton Pattern\bin\Debug\net8.0\Implement Singleton Pattern.pdb
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.AssemblyInfoInputs.cache
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.AssemblyInfo.cs
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.csproj.CoreCompileInputs.cache
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.dll
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\refint\Implement Singleton Pattern.dll
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.pdb
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\Implement Singleton Pattern.genruntimeconfig.cache
+E:\chapter5\chapter5\Implement Singleton Pattern\obj\Debug\net8.0\ref\Implement Singleton Pattern.dll

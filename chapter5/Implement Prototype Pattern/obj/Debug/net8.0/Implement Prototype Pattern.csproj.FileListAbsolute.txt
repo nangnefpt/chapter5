@@ -1,0 +1,14 @@
+E:\chapter5\chapter5\Implement Prototype Pattern\bin\Debug\net8.0\Implement Prototype Pattern.exe
+E:\chapter5\chapter5\Implement Prototype Pattern\bin\Debug\net8.0\Implement Prototype Pattern.deps.json
+E:\chapter5\chapter5\Implement Prototype Pattern\bin\Debug\net8.0\Implement Prototype Pattern.runtimeconfig.json
+E:\chapter5\chapter5\Implement Prototype Pattern\bin\Debug\net8.0\Implement Prototype Pattern.dll
+E:\chapter5\chapter5\Implement Prototype Pattern\bin\Debug\net8.0\Implement Prototype Pattern.pdb
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.AssemblyInfoInputs.cache
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.AssemblyInfo.cs
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.csproj.CoreCompileInputs.cache
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.dll
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\refint\Implement Prototype Pattern.dll
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.pdb
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\Implement Prototype Pattern.genruntimeconfig.cache
+E:\chapter5\chapter5\Implement Prototype Pattern\obj\Debug\net8.0\ref\Implement Prototype Pattern.dll

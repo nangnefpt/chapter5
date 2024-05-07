@@ -1,0 +1,14 @@
+E:\chapter5\chapter5\Implement Factories Method\bin\Debug\net8.0\Implement Factories Method.exe
+E:\chapter5\chapter5\Implement Factories Method\bin\Debug\net8.0\Implement Factories Method.deps.json
+E:\chapter5\chapter5\Implement Factories Method\bin\Debug\net8.0\Implement Factories Method.runtimeconfig.json
+E:\chapter5\chapter5\Implement Factories Method\bin\Debug\net8.0\Implement Factories Method.dll
+E:\chapter5\chapter5\Implement Factories Method\bin\Debug\net8.0\Implement Factories Method.pdb
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.AssemblyInfoInputs.cache
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.AssemblyInfo.cs
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.csproj.CoreCompileInputs.cache
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.dll
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\refint\Implement Factories Method.dll
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.pdb
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\Implement Factories Method.genruntimeconfig.cache
+E:\chapter5\chapter5\Implement Factories Method\obj\Debug\net8.0\ref\Implement Factories Method.dll
